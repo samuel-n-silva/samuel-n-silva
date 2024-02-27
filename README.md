@@ -6,7 +6,7 @@
 Formado em Análise e Desenvolvimento de Sistemas, trago dedicação contínua ao desenvolvimento de sistemas web. A busca por aprimoramento levou à maestria em linguagens e frameworks como Java, JavaScript, Node.js e React. Minha experiência abrange Front-end e Back-end. Busco desafios estimulantes, oportunidades de aprendizado e crescimento na vanguarda da Tecnologia da Informação....  
     
 ### 🔗 Conecte-se comigo  
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samuelikz.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samuelikz.com.br/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/)
 [![twitter](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuel-n-silva/)  
     
